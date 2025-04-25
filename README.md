@@ -17,7 +17,6 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 Launch Autopsy:
 
 You can start Autopsy via terminal, which opens the web interface:
-
 ```bash
 autopsy
 ```
@@ -36,7 +35,6 @@ It will be accessible at ```http://localhost:9999``` by default in your browser.
 
 ![image](https://github.com/user-attachments/assets/ce44d676-88b4-4735-bfdd-11ce92bacf10)
 ![image](https://github.com/user-attachments/assets/1a8d9c96-ed94-4a7b-820c-91fa9388b2fc)
-
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
